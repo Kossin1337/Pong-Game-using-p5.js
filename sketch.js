@@ -10,7 +10,6 @@ let playerMoveSpeed;
 let gameStarted = false;
 let roundStarted = false;
 
-
 function setup() {
   createCanvas(800, 500);
   background(0, 200);
