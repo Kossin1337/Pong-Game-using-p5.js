@@ -8,4 +8,4 @@ I learned about canvas animations in p5.js
 Collisions detection and game design principles
 
 You can take the code and modify it or add another functionality
-Have a nice day ^^
+Enjoy your day ^^
